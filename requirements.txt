@@ -1,0 +1,5 @@
+﻿Requirement:
+
+pip install django stripe
+
+setup an account in Stripe : https://dashboard.stripe.com/register
