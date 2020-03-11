@@ -4,7 +4,7 @@
 # What it is?
 
 This website is a paid membership website for Sen Fitness Corporation, from where loged in user can have some fitness tip for free and some are need to take premium membership.
-A third party service Strip ( a suite of payment APIs) has been used to deal with the transaction between user and corporation
+A third party service Stripe ( a suite of payment APIs) has been used to deal with the transaction between user and corporation
 
 ![title](sen_fitness_images/home.jpg)
 
